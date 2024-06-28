@@ -1,3 +1,4 @@
 # My-Digital-Resume
 
-[Link here] {akshayrohithresume.netlify.app}
+click the below link:
+https://akshayrohithresume.netlify.app/
